@@ -1,5 +1,5 @@
 body {
     background-image: url("https://images.pexels.com/photos/1360115/pexels-photo-1360115.jpeg");
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
 }
